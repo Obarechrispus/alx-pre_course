@@ -1,1 +1,1 @@
-My first readme
+its been a hard project
